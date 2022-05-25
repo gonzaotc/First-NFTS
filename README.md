@@ -17,6 +17,7 @@ After executing train() method 4 times (4 levels up) <br/>
 ### Learning takeaways
 - I learned how to save my NFT metadata in the blockchain and the differences with having it off-chain, in services like IPFS.
 - I learned do fuctions that are able to manipulate the on-chain metadata, bringing infinite possibilities.
+- I learned a lot more about type conversiones and encoding, base64 strings, abi.encode(), abi.encodePack(), and using OpenZepellin utils as Strings, Counters.
 
 
 
